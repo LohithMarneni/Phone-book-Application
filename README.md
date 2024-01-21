@@ -9,7 +9,7 @@ Welcome to the Phone Book Application! This simple command-line program, written
 - [Contributing](#contributing)
 
 ## Introduction
-![Phone Book Application](path/to/your/image.png)
+![Phone Book Application](readme_images/phone_book_Image.webp)
 
 The Phone Book Application uses a file-based approach to store contacts persistently. Whether you want to add a new contact, update an existing one, or perform other operations, this program has you covered.
 
