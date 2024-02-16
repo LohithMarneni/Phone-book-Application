@@ -52,18 +52,6 @@ The Phone Book Application is a simple yet powerful command-line program develop
 4. **Follow the on-screen menu to interact with the Phone Book Application.**
 
 
-
-# Contributing
-
-This project was developed by a team of dedicated individuals under the guidance of Aurobindo Behera, Assistant Professor at SRM University AP. The team members are:
-
-- **Team Lead:** Lohith Marneni
-- **Team Members:**
-  - Lokesh Chirumamilla
-  - Sahithi Mukkamala
-  - Yashwanth Sudikonda
-  - Rushitha Doradla
-
 ## How to Contribute
 
 If you'd like to contribute to this project, We welcome your suggestions, bug reports, and pull requests.
